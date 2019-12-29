@@ -5,7 +5,7 @@
 ### The key deliverables will be:
 
 **General**
-- 'Household' user groups who are able to edit content in shopping lists, meal planner and the inventory.
+- 'Household' user groups who are able to edit shared content in the shopping lists, meal planner and inventory.
 
 **Food Tracker**
 - Inventory for adding what food is currently at home.
@@ -14,9 +14,9 @@
 - Easy to use barcode scanner and quantity overview for adding or removing food.  
 
 **Meal Planner**
-- Create and edit groups of food items from the database and create meals.
-- Add meal entries to a diary to plan ahead with what you need for the week. 
+- Create and edit groups of food items from the database to create meals.
+- Add meal entries to a diary to plan ahead with what food is needed for each week. 
 
 **Shopping List**
 - Generate a shopping list from the meal planner, which can be ammended.
-- Get reminded what is already in the house when a similar item is in the inventory.
+- Get reminded what is already in the house when a similar item is on the shopping list.
