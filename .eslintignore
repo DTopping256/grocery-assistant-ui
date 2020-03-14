@@ -1,0 +1,7 @@
+node_modules/*
+public/*
+vscode/*
+*.md
+*.lock
+*.json
+.*ignore
